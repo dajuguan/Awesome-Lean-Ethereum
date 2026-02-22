@@ -11,15 +11,15 @@ Last updated: 2026-02-22
 ### Communication / updates
 - [Lean Ethereum on X](https://x.com/leanEthereum) - Social channel for announcements, call reminders, and ecosystem updates.
 - [PQ Interop Notes](https://github.com/leanEthereum/pm/tree/main/breakout-rooms/leanConsensus/pq-interop) - Meeting notes and coordination docs for Lean Consensus PQ interop.
-- [leanEthereum/pm](https://github.com/leanEthereum/pm) - Main process repository for Lean Ethereum breakout rooms and call materials.
+- [LeanEthereum/pm](https://github.com/leanEthereum/pm) - Main process repository for Lean Ethereum breakout rooms and call materials.
 
 ## 2. Specs and Ecosystem Tooling
 
 ### Core spec + reference implementations
-- [leanSpec](https://github.com/leanEthereum/leanSpec) - Core specification repository for Lean Ethereum protocol components.
-- [leanSig](https://github.com/leanEthereum/leanSig) - Post-quantum signature implementation work for Lean Ethereum.
-- [leanMultisig](https://github.com/leanEthereum/leanMultisig) - Signature aggregation and minimal-zkVM-oriented multisig research code.
-- [leanMetrics](https://github.com/leanEthereum/leanMetrics) - Metrics/spec tooling for evaluating Lean Consensus behavior.
+- [LeanSpec](https://github.com/leanEthereum/leanSpec) - Core specification repository for Lean Ethereum protocol components.
+- [LeanSig](https://github.com/leanEthereum/leanSig) - Post-quantum signature implementation work for Lean Ethereum.
+- [LeanMultisig](https://github.com/leanEthereum/leanMultisig) - Signature aggregation and minimal-zkVM-oriented multisig research code.
+- [LeanMetrics](https://github.com/leanEthereum/leanMetrics) - Metrics/spec tooling for evaluating Lean Consensus behavior.
 
 ## 3. Lean Consensus
 
@@ -70,18 +70,18 @@ Current status: dedicated canonical execution spec is still evolving; practical 
 - [Hash-Based Multi-Signatures for Post-Quantum Ethereum](https://eprint.iacr.org/2025/055) - Foundational post-quantum multisignature proposal.
 - [At the Top of the Hypercube (ePrint 2025/889)](https://eprint.iacr.org/2025/889) - Follow-up optimization research for hash-based signatures.
 - [Towards Hash-Based Multi-Signatures for Post-Quantum Distributed Validators](https://github.com/ObolNetwork/pqdv/blob/main/doc/main.pdf) - Distributed validator-focused design document listed by roadmap resources.
-- [hash-sig (Rust reference implementation)](https://github.com/b-wagn/hash-sig) - Prototype implementation linked from roadmap resources.
+- [Hash-Sig (Rust Reference Implementation)](https://github.com/b-wagn/hash-sig) - Prototype implementation linked from roadmap resources.
 
 ### Minimal Zero-Knowledge Virtual Machines
 - [Benchmark Hash in SNARK](https://hackmd.io/%40han/bench-hash-in-snark) - Benchmarking notes for hash performance in SNARK settings.
-- [Hash-based Signature Aggregation](https://hackmd.io/%40han/hash-sig-agg) - Working notes on aggregation strategies for hash-based signatures.
-- [Circuit gadgets](https://hackmd.io/%40tcoratger/SyWbmVPckx) - Circuit-level exploration notes for minimal zkVM pathways.
+- [Hash-Based Signature Aggregation](https://hackmd.io/%40han/hash-sig-agg) - Working notes on aggregation strategies for hash-based signatures.
+- [Circuit Gadgets](https://hackmd.io/%40tcoratger/SyWbmVPckx) - Circuit-level exploration notes for minimal zkVM pathways.
 - [WHIR paper overview](https://gfenzi.io/papers/whir/) - Reference material for WHIR-related exploration listed in roadmap resources.
 
 ### Formal Verification
 - [Verified zkEVMs](https://verified-zkevm.org/) - Project hub for formal verification workstreams.
 - [ArkLib](https://github.com/Verified-zkEVM/ArkLib) - Lean formalization code for arguments of knowledge.
-- [leanblueprint](https://github.com/PatrickMassot/leanblueprint) - Blueprint tooling referenced by roadmap formal verification resources.
+- [Leanblueprint](https://github.com/PatrickMassot/leanblueprint) - Blueprint tooling referenced by roadmap formal verification resources.
 - [ArkLib Blueprint](https://verified-zkevm.github.io/ArkLib/blueprint/index.html) - Generated blueprint/docs for the formalization effort.
 
 ### P2P Networking

@@ -20,6 +20,7 @@ Date: 2026-02-22
 - In video collections, always include a readable title before each URL.
 - Avoid bare URLs in bullet lists unless explicitly required.
 - Keep link names short; move explanatory details to the trailing description.
+- Link titles must start with an uppercase letter for consistent formatting.
 
 ## Video Curation
 - Prefer official playlists over listing every individual recording when both are available.
