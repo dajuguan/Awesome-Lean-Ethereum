@@ -21,10 +21,6 @@ Last updated: 2026-02-22
 - [leanMultisig](https://github.com/leanEthereum/leanMultisig) - Signature aggregation and minimal-zkVM-oriented multisig research code.
 - [leanMetrics](https://github.com/leanEthereum/leanMetrics) - Metrics/spec tooling for evaluating Lean Consensus behavior.
 
-### Ecosystem article (engineering practice)
-- [Ethlambda Shared Tooling](https://blog.lambdaclass.com/ethlambda-building-a-post-quantum-ethereum-client-with-the-help-of-shared-tooling) - Engineering write-up on building a post-quantum Ethereum client with shared tooling.
-- [Introducing Ethlambda](https://blog.lambdaclass.com/introducing-ethlambda-a-lean-consensus-client-for-ethereums-next-era/) - Intro article for a Lean-consensus-oriented client effort.
-
 ## 3. Lean Consensus
 
 ### Devnet / interop tracking
@@ -91,6 +87,10 @@ Current status: dedicated canonical execution spec is still evolving; practical 
 - [Research Track: P2P Networking](https://leanroadmap.org/#research-tracks) - Canonical entry point for the Generalised Gossipsub and Gossipsub v2.0 spec links.
 
 ## 7. Learning and MOOCs
+
+### Ecosystem article (engineering practice)
+- [Ethlambda Shared Tooling](https://blog.lambdaclass.com/ethlambda-building-a-post-quantum-ethereum-client-with-the-help-of-shared-tooling) - Engineering write-up on building a post-quantum Ethereum client with shared tooling.
+- [Introducing Ethlambda](https://blog.lambdaclass.com/introducing-ethlambda-a-lean-consensus-client-for-ethereums-next-era/) - Intro article for a Lean-consensus-oriented client effort.
 
 ### Videos
 - [Lean Ethereum Playlist](https://www.youtube.com/watch?v=Dad2UonQ9Ag&list=PLJqWcTqh_zKGGuO_q1dgYLsfUoX1sNhWM) - Core videos introducing Lean Ethereum background and goals.
