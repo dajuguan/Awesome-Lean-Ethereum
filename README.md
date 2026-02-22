@@ -15,11 +15,15 @@ Last updated: 2026-02-22
 
 ## 2. Specs and Ecosystem Tooling
 
-### Core spec + reference implementations
+### Core spec
 - [LeanSpec](https://github.com/leanEthereum/leanSpec) - Core specification repository for Lean Ethereum protocol components.
+
+### Tools
 - [LeanSig](https://github.com/leanEthereum/leanSig) - Post-quantum signature implementation work for Lean Ethereum.
 - [LeanMultisig](https://github.com/leanEthereum/leanMultisig) - Signature aggregation and minimal-zkVM-oriented multisig research code.
 - [LeanMetrics](https://github.com/leanEthereum/leanMetrics) - Metrics/spec tooling for evaluating Lean Consensus behavior.
+- [Lean-quickstart](https://github.com/blockblaz/lean-quickstart) - A utility to quickly spin up a localnet of lean (multi-client) nodes.
+- [Leanpoint - Checkpoint Sync Provider](https://github.com/blockblaz/leanpoint) - Lean Ethereum's equivalent checkpointz tool (wip).
 
 ## 3. Lean Consensus
 
