@@ -42,6 +42,7 @@ Current status: dedicated "Lean Data" canonical doc is still mostly referenced t
 - [3SF + PeerDAS Integration](https://ethresear.ch/t/integrating-3sf-with-epbs-focil-and-peerdas/22909) - Research discussion connecting finality and data availability design.
 
 ### Implementations
+- Currently focused on Lean Consensus; implementation details for this section are still pending.
 
 ## 5. Lean Execution
 
@@ -54,6 +55,7 @@ Current status: dedicated canonical execution spec is still evolving; practical 
 - [ArkLib Blueprint](https://verified-zkevm.github.io/ArkLib/blueprint/index.html) - Generated technical docs for ArkLib.
 
 ### Implementations
+- Currently focused on Lean Consensus; implementation details for this section are still pending.
 
 ## 6. Research Reading List
 
